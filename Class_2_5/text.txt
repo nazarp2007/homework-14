@@ -1,0 +1,6 @@
+L 80 3 Petrenko 120000 1 50 Normal
+L 65 2 Ivanenko 90000 2 40 NoRepair
+L 120 4 Shevchenko 200000 1 75 Lux
+C 70 2 Kovalenko 110000 2 Office
+C 55 1 Bondar 85000 3 Store
+C 150 5 Melnyk 300000 1 Warehouse
